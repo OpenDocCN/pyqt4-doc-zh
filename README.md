@@ -4,7 +4,7 @@
 > 
 > 程序有问题时不要担心。如果所有东西都没问题，你就失业了。——Mosher 定律
 
-* [在线阅读](https://pyqt4.apachecn.org)
+* [在线阅读](https://pyqt4.flygon.net)
 ## 下载
 
 ### Docker
